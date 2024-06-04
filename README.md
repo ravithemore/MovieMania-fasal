@@ -5,7 +5,7 @@ This is a movie finder app where you can search movies and its details along wit
 Deployed on Vercel
 
 ### Live Link
-[Movie Mania](movie-mania-eta.vercel.app)
+[Movie Mania](https://movie-mania-eta.vercel.app/)
 
 ## How to install
 
